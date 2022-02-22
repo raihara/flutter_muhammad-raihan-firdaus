@@ -22,4 +22,7 @@ Sebuah Gudang, Sosial Media bagi para Programer. dimana kita bisa menyimpan hasi
 ## Task Essay
 Membuat sebuah repository lalu mengimplementasikan penggunaan branching master/main, development, featureA, featureB, melakukan beberapa instruksi git push, pull, stash dan merge dan mengatasi conflict.
 
+Berikut file doc yang berisikan step by step dan screenshot mengerjakan task
+[Praktikum.docx](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/2_Version%20Control%20and%20Branch%20Management%20(Git)/Praktikum/2_Version%20Control%20and%20Branch%20Management%20(Git).docx)
+
 Semua yang dipraktekin ada di repo ini: [Repository Exalterra untuk Percobaan](https://github.com/fraihan-dw/Exalterra).
