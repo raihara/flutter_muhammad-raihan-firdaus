@@ -25,8 +25,12 @@ Digunakan untuk menyimpan data, memiliki nama dan tipe data.
 
 file codingan:
 Berikut file doc yang berisikan step by step dan screenshot mengerjakan task
-[Task1](https://docs.google.com/document/d/1DRWlLeRPSUw7kFBsQrN6jstxROeifSU683ww8bVyvmA/edit?usp=sharing)
-[Task2](https://docs.google.com/document/d/1DRWlLeRPSUw7kFBsQrN6jstxROeifSU683ww8bVyvmA/edit?usp=sharing)
+[Task1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/4_%20Introduction%20to%20Algorithm%20and%20Dart%20Programming/Praktikum/Task/bin/task1.dart)
 
-output:
+[Task2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/4_%20Introduction%20to%20Algorithm%20and%20Dart%20Programming/Praktikum/Task/bin/task2.dart)
 
+output Task1:
+![Task1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/4_%20Introduction%20to%20Algorithm%20and%20Dart%20Programming/Screenshot/Task1.png?raw=true)
+
+Output Task2:
+![Task2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/4_%20Introduction%20to%20Algorithm%20and%20Dart%20Programming/Screenshot/Task2.png?raw=true)
