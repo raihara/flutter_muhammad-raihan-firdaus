@@ -8,6 +8,7 @@ Dalam materi ini mempelajari
 4. Variabel
 5. Async
 6. Map
+7. Branch
 
 ### Dart
 Bahasa Pemprograman yang dirancang untuk membuat aplikasi, dari Flutter
@@ -26,6 +27,12 @@ Menjalankan beberapa proses tanpa perlu menunggu
 
 ### Map
 Menyimpan data secara key-value.
+
+### Branch
+Branch / percabangan merupakan sebuah sintaks pemprograman yang ada juga pada dart, dimana branch ini berguna untuk perintah pengambilan keputusan.
+1. Ada Branch IF
+2. Ada Branch IF-ELSE
+3. Sisipan ELSE iF, jadi setelah sintaks blok code IF dimasukan blok code ELSE IF
 
 ## Task Essay
 1. Implementasi rumus luas lingkaran pada pemprograman Dart
