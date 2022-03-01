@@ -33,13 +33,13 @@ Menyimpan data secara key-value.
 
 file codingan:
 Task 1:
-[]()
+[](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/5_Basic%20Dart%20Programming/Praktikum/Task1.dart)
 
 Task 2
-[]()
+[](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/5_Basic%20Dart%20Programming/Praktikum/Task2.dart)
 
 output Task1:
-![]()
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/5_Basic%20Dart%20Programming/Screenshot/Task1.png?raw=true)
 
 Output Task2:
-![]()
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/5_Basic%20Dart%20Programming/Screenshot/Task2.png?raw=true)
