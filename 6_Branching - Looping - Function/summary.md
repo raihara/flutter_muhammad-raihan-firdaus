@@ -20,31 +20,41 @@ Function atau fungsi adalah sebuah sintak dalam pemprograman / kumpulan program 
 
 ## Task Essay
 1. Terdapat sebuah nilai:
+
     a. Jika nilai > 70 return A
+
     b. Jika nilai > 40 return B
+
     c. Jika nilai > 0 return C
+
     d. selain itu return teks kosong
+
 2. tampilkan nilai faktorial dari:
+
     a. 10
+
     b. 20
+
     c. 30
 
 file codingan:
 
 
-[Task 1]()
+[Task 1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/6_Branching%20-%20Looping%20-%20Function/Praktikum/task1.dart)
 
 Pada task 1 ini membuat program grade nilai, dimana begitu memasukkan nilai yang kita miliki maka akan muncul hasilnya sesuai dengan aturan nilai grade yang telah ditentukan.
 
 output Task 1:
 
-![]()
+
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/6_Branching%20-%20Looping%20-%20Function/Screenshot/Task%201.png?raw=true)
 
 
-[Task 2]()
+[Task 2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/6_Branching%20-%20Looping%20-%20Function/Praktikum/task2.dart)
 
 Dimana pada task 2 ini, kita membuat program faktorial, pertama saya masukan nilai bilangan bulat yang mau di faktorkan yaitu 10 lalu bakal muncul hasilnya, lalu masukan nilai 20 lalu keluar hasilnya dan seterusnya.
 
 Output Task 2:
 
-![]()
+
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/6_Branching%20-%20Looping%20-%20Function/Screenshot/Task%202.png?raw=true)
