@@ -1,4 +1,4 @@
-# 6 Branching - Looping - Function
+# 7 Advance Funtion - Async-Await
 
 ## Resume
 Dalam materi ini mempelajari
