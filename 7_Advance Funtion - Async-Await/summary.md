@@ -45,7 +45,7 @@ Sebuah sintaks dalam bahasa pemprograman dart, dimana sebuah sintaks ini membuat
 file codingan:
 
 
-[Task 1]()
+[Task 1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/7_Advance%20Funtion%20-%20Async-Await/Praktikum/task1.dart)
 
 
 output Task 1:
@@ -54,7 +54,7 @@ output Task 1:
 ![]()
 
 
-[Task 2]()
+[Task 2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/7_Advance%20Funtion%20-%20Async-Await/Praktikum/task2.dart)
 
 
 Output Task 2:
