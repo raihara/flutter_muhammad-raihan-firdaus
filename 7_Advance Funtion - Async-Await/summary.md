@@ -51,7 +51,7 @@ file codingan:
 output Task 1:
 
 
-![]()
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/7_Advance%20Funtion%20-%20Async-Await/Screenshot/task1.png?raw=true)
 
 
 [Task 2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/7_Advance%20Funtion%20-%20Async-Await/Praktikum/task2.dart)
@@ -60,4 +60,4 @@ output Task 1:
 Output Task 2:
 
 
-![]()
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/7_Advance%20Funtion%20-%20Async-Await/Screenshot/task2.png?raw=true)
