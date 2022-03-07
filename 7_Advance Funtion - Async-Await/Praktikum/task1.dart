@@ -1,26 +1,16 @@
-void main(){
-  List list = [5, 2, 10, 3, 1, 5];
-  List pengali = [1, 25, 2, 5, 4, 7];
-  print(list);
-  Future.delayed(Duration(seconds: 2), (){
-    for(var listed in list){
-      return list[listed];
-  }
-  });
-}
-/*
-import 'dart:io';
-fungsi (List listing, int pengali) async{
-  Future.delayed(Duration(seconds: 1), (){
-    for(var list in listing){
-      print(listing);
-      return listing[list] * pengali;
+test (List listing, int pengali){
+  var myd = [];
+  for(var list in listing){
+      myd.add(list * pengali);
     }
-  print(listing);
-  });
+  return myd;
 }
-void main() async{
-  List listing = [1, 2, 3, 4, 5];
-  List pengali = [2, 4, 6];
-  print(fungsi(listing, pengali));
-}*/
+Future <void> main() async{
+  var myd = [];
+  int pengali = 5;
+  List listing = [5, 2, 10, 3, 1];
+  var listed = await test(listing, pengali);
+  
+  print(listing);
+  print(listed);
+}
