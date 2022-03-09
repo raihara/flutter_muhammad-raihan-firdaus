@@ -1,11 +1,14 @@
-class Mobil{
+import 'task1.dart';
+class mobil{
   totalMuatan(){
-    int total = 2 + 5;
+    var call = Hewan();
+    var nilai = Mobil();
+    var total = call.beratAyam + nilai.kapasitas;
     print(total);
   }
 }
 
 void main(){
-  var call = Mobil();
+  var call = mobil();
   call.totalMuatan();
 }
