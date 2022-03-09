@@ -4,11 +4,17 @@ class Hewan {
 }
 class Mobil {
   var muatan = Hewan();
+  var md = [
+    ["Sapi", "100"],
+    ["Kambing", "20"],
+  ];
+  var kapasitas = 5;
   void tambahMuatan(){
+    if (kapasitas < 10){
+      md.add(["Sapi, 70"]);
+    }
     print(muatan);
-    print(muatan.beratSapi);
-    print(muatan.beratAyam);
-    print(20);
+    print(md);
   }
 }
 void main(){
