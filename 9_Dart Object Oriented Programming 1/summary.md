@@ -31,19 +31,19 @@ Method hampir sama seperti property, dimana berada di dalam class, sifat suatu c
 file codingan:
 
 
-[Task 1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/8_Collection/Praktikum/task1.dart)
+[Task 1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Praktikum/task1.dart)
 
 
 output Task 1:
 
 
-![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/8_Collection/Screenshot/task1.png?raw=true)
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Screenshot/task1.png?raw=true)
 
 
-[Task 2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/8_Collection/Praktikum/task2.dart)
+[Task 2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Praktikum/task2.dart)
 
 
 Output Task 2:
 
 
-![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/8_Collection/Screenshot/task2.png?raw=true)
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%201/Screenshot/task2.png?raw=true)
