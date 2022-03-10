@@ -1,26 +1,37 @@
 class Hewan {
-  var beratSapi = 50;
-  var beratAyam = 10;
+  int? berat;
 }
+
 class Mobil {
-  var muatan = Hewan();
-  var md = [
-    ["Sapi", "100"],
-    ["Kambing", "20"],
-  ];
-  var kapasitas = 5;
-  void tambahMuatan(){
-    if (kapasitas < 10){
-      md.add(["Sapi, 70"]);
+  int overload = 100;
+  int kapasitas = 0;
+  List<Hewan> muatan = [];
+  void tambahMuatan (Hewan animal) {
+    int total = animal.berat!;
+    var i = 0;
+    while (i < muatan.length){
+      total = total + muatan[i].berat!;
+      i++;
+    }    
+    if (total <= overload){
+      muatan.add(animal);
+      kapasitas = total;
+      print(kapasitas);
+    }else{
+      print("Overload");
     }
-    print(muatan);
-    print(md);
   }
 }
+
 void main(){
-  var panggil = Hewan();
-  print(panggil.beratSapi);
-  print(panggil.beratAyam);
+  var sapi = Hewan();
+  var kambing = Hewan();
+  var unta = Hewan();
+  sapi.berat = 50;
+  kambing.berat = 20;
+  unta.berat = 70;
   var called = Mobil();
-  called.tambahMuatan();
+  called.tambahMuatan(sapi);
+  called.tambahMuatan(kambing);
+  called.tambahMuatan(unta);
 }
