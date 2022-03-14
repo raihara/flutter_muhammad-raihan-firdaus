@@ -27,19 +27,23 @@ Membuat class baru dengan memanfaat class yang sudah ada, bisa dibilang inherita
 file codingan:
 
 
-[Task 1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%202/Praktikum/task1.dart)
+[Task 1](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Praktikum/task1.dart)
+
+[Task 2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Praktikum/task2.dart)
 
 
-output Task 1:
+output Task ke-1 (Intruksi no.1 dan 2):
 
 
-![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%202/Screenshot/task1.png?raw=true)
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshot/task1.png?raw=true)
 
 
-[Task 2](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%202/Praktikum/task2.dart)
+[Task 3](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Praktikum/task3.dart)
+
+[Task 4](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Praktikum/task4.dart)
 
 
-Output Task 2:
+Output Task ke-2 (intruksi no.3 dan 4):
 
 
-![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/9_Dart%20Object%20Oriented%20Programming%202/Screenshot/task2.png?raw=true)
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshot/task2.png?raw=true)
