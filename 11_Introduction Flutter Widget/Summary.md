@@ -33,4 +33,4 @@ Dimana pada tugas ini saya sudah melakukan semua yang di intruksikan (no.1 dan 2
 output Task:
 
 
-![]()
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/11_Introduction%20Flutter%20Widget/Screenshot/output%20task%20sec11.png?raw=true)
