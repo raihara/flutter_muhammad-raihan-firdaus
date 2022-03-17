@@ -33,4 +33,4 @@ Dimana pada tugas ini saya sudah melakukan semua yang di intruksikan (no.1 dan 2
 output Task:
 
 
-![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/10_Dart%20Object%20Oriented%20Programming%202/Screenshot/task1.png?raw=true)
+![]()
