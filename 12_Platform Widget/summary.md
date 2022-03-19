@@ -30,9 +30,8 @@ Stateless Widget adalah widget yang bergantung pada perubahan data
 2. Buatlah tampilan berikut ini menggunakan flutter cupertino, seperti contoh pada ppt slide 23.
 
 file codingan:
-Mohon maaf untuk file nya belum selesai, dikarenakan laptop saya ngehang, sudah direstart tetap ngehang karena tidak kuat untuk menjalankannya. disaat menjalankannya juga butuh waktu yang lama. Tapi akan segera saya selesaikan.
 
-
+Untuk telegram android pada folder test_andro
 [main.dart]()
 
 
