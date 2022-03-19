@@ -32,11 +32,23 @@ Stateless Widget adalah widget yang bergantung pada perubahan data
 file codingan:
 
 Untuk telegram android pada folder test_andro
-[main.dart]()
+[main.dart](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/12_Platform%20Widget/Praktikum/test_andro/lib/main.dart)
 
+[home.dart](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/12_Platform%20Widget/Praktikum/test_andro/lib/home.dart)
+
+[data.dart](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/12_Platform%20Widget/Praktikum/test_andro/lib/data.dart)
+
+[theme.dart](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/12_Platform%20Widget/Praktikum/test_andro/lib/theme.dart)
 
 
 output Task:
 
+SS output ke-1, Task 1, Tampilan utama telegram android.
 
-![]()
+
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/12_Platform%20Widget/Screenshot/Ss%20output%20MaterialApp%20android%20Telegram.png?raw=true)
+
+SS output ke-2, Task 1, Tampilan utama telegram android.
+
+
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/12_Platform%20Widget/Screenshot/Ss%20output%20MaterialApp%20android%20Telegram%20Drawer.png?raw=true)
