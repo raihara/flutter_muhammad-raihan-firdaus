@@ -1,4 +1,4 @@
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 
 class ChatData{
   String? nama;
@@ -23,7 +23,7 @@ List<ChatData> dataChat = [
     nama: "Lestari",
     obrolan: "Udh berangkat ke kantor belum?",
     time: "08.00",
-    gambar: "https://i.pinimg.com/originals/46/80/c5/4680c57df5b2a0a4db4f40d16d45ba5d.jpg",
+    gambar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJehWjwNvprmVPzJgeI4ZORTfx4gT-xSMr-w&usqp=CAU",
     read: false,
     jumlahChat: 20,
   ),
@@ -64,5 +64,27 @@ List<ChatData> dataChat = [
     gambar: "https://i.pinimg.com/originals/46/80/c5/4680c57df5b2a0a4db4f40d16d45ba5d.jpg",
     read: false,
     jumlahChat: 5,
+  ),
+  ChatData(
+    nama: "Misima",
+    obrolan: "Terimakasih, paket sudah sampai",
+    time: "3 Februari 2022",
+    gambar: "https://i.pinimg.com/originals/46/80/c5/4680c57df5b2a0a4db4f40d16d45ba5d.jpg",
+    read: false,
+    jumlahChat: 2,
+  ),
+  ChatData(
+    nama: "Sayu",
+    obrolan: "Nanti mampir lagi ya",
+    time: "2 Februari 2022",
+    gambar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ98g5uYSslXeI88gBZ4_Ok3SP8Y8D0r-vHQ&usqp=CAU",
+    read: true,
+  ),
+  ChatData(
+    nama: "Mayu",
+    obrolan: "Nanti mampir lagi ya",
+    time: "2 Februari 2022",
+    gambar: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa0eKpjuzLxjR_N9i-aT9Wb8ZQ_YKYU5DwJA&usqp=CAU",
+    read: true,
   ),
 ];
