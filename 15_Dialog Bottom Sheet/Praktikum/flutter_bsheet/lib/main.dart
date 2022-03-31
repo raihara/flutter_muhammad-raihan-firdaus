@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bsheet/Screens/task_screen.dart';
-import 'package:flutter_bsheet/models/task_manager.dart';
 import 'package:provider/provider.dart';
 
 void main() {
@@ -13,16 +12,13 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider(
-      create: (context) => TaskManager(),
-      child: MaterialApp(
-        debugShowCheckedModeBanner: false,
-        title: 'Task Management',
-        theme: ThemeData(
-          primarySwatch: Colors.blue,
-        ),
-        home: TaskScreen(),
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      title: 'Task Management',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
       ),
+      home: TaskScreen(),
     );
   }
 }
