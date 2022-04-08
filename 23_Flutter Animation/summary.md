@@ -32,31 +32,41 @@ Maksudnya adalah versi animasi widget yang sudah ada. sudah disediakan oleh flut
 
 file codingan:
 
+Project Flutter Transition adalah project yang didalamnya terdapat 2 task, jadi saat menjalankan tinggal ganti di bagian file mainnya, di baris code home nya
+
 Project With Task 1 (Gambar)
 
 
-[main.dart]()
+[main.dart](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/23_Flutter%20Animation/Praktikum/flutter_transition/lib/main.dart)
 
 
 
-![]()
+Dan ini adalah tampilan default nya dari project animation picture dimana ukuran picture kecil:
 
 
-Output Task Navigation With PushNamedRoutes saat tombol ditekan:
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/23_Flutter%20Animation/Screenshot/flutter_transition_animatedpicture_small.png?raw=true)
 
 
-![]()
+Output Task Animation Picture saat ditekan, gambar menjadi besar
 
 
-Project Transisi Halaman
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/23_Flutter%20Animation/Screenshot/flutter_transition_animatedpicture_big.png?raw=true)
 
 
-[main.dart]()
+Project Transisi Halaman:
+Karena di dalam project ini ada 2 task, dan ini default/bekas menjalankan animatedpicture maka saat menjalankan ini kita harus mengganti di file main.dart di bagian code home nya (Ganti 'animatedpicture()' menjadi 'contact()').
 
 
-
-![]()
-
+[main.dart](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/23_Flutter%20Animation/Praktikum/flutter_transition/lib/main.dart)
 
 
-![]()
+Dan ini adalah tampilan default nya dari project transition contact, dimana menampilkan beberapa contact:
+
+
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/23_Flutter%20Animation/Screenshot/flutter_transition_contact.png?raw=true)
+
+
+Output Task Transition Contact, dimana saat kita menekan tombol floatingactionbutton maka akan muncul animasi transisi, disini saya pakai scaletransition.
+
+
+![](https://github.com/fraihan-dw/flutter_muhammad-raihan-firdaus/blob/main/23_Flutter%20Animation/Screenshot/flutter_transition_newcontact.png?raw=true)
