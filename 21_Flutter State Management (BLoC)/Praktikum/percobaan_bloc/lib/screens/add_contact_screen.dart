@@ -14,7 +14,7 @@ class AddTodoScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('BloC Pattern: Add a To Do'),
+        title: const Text('New Contact'),
       ),
       body: BlocBuilder<ContactsBloc, ContactsState>(
         builder: (context, state) {
